@@ -1,6 +1,5 @@
-# video-downloder
-from pytube import YouTube 
-link = input("Enter the link: ")
-video = YouTube(link)
-stream = video.streams.get_highest_resolution()
-stream.download()
+# This is a video-downloder tool..
+# everyone can download videos though out link...🖇📎📎
+# you can just copy video  link 📎 and download videos this tool through 
+#🤠best off luck🤠
+
